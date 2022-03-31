@@ -16,7 +16,7 @@ gem 'rest-client'
 gem 'json'
 gem 'dotenv-rails'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'bcrypt', '~> 3.1.7'
 gem 'jwt', '~> 2.1'
 gem 'bootsnap', '>= 1.4.2', require: false
